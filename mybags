@@ -1,0 +1,23 @@
+{
+"bags" : [
+{
+"size": "big",
+"colour" : "red",
+"price": 12.4
+},
+{
+"size": "small",
+"colour" : "black",
+"price": 120.4
+},
+{"size": "very big",
+"colour" : "brown",
+"price": 34.5
+},
+{
+"size": "tiny",
+"colour" : "green",
+"price": 100.2
+}
+]
+}
