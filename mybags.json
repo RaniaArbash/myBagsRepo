@@ -9,16 +9,19 @@
 {
 "size": "small",
 "colour" : "black",
-"price": 120.4
+"price": 120.4,
+  "image":"https://images.freeimages.com/images/large-previews/a75/black-bag-1421776.jpg?fmt=webp&w=350"
 },
 {"size": "very big",
 "colour" : "brown",
-"price": 34.5
+"price": 34.5,
+  "image":"https://images.freeimages.com/images/large-previews/6e5/ready-to-go-1472989.jpg?fmt=webp&w=350"
 },
 {
 "size": "tiny",
 "colour" : "green",
-"price": 100.2
+"price": 100.2,
+  "image": "https://media.istockphoto.com/id/482256904/photo/green-fabric-bag.webp?b=1&s=612x612&w=0&k=20&c=9eAwS0n1xf5pPD4_q5CXRqG_6HIyo-YA_DeqOe7RpnA="
 }
 ]
 }
